@@ -1,4 +1,4 @@
-import Data from "./Data";
+
 import React, { useState } from "react";
 
 const Accordian = () => {
